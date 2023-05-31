@@ -1,0 +1,3 @@
+C:/Users/kacpe/CLionProjects/SDIZO1/cmake-build-debug/CMakeFiles/SDIZO1.dir
+C:/Users/kacpe/CLionProjects/SDIZO1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kacpe/CLionProjects/SDIZO1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
